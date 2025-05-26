@@ -31,9 +31,10 @@
 ### <a name="_qmphm5d6rvi3"></a>**Решение**
 
 Схемы C4
-[Task3/С4_контекст.drawio (1).png]
+[С4_контекст.drawio](Task3/С4_контекст.drawio (1).png}
 [Task3/С4_контейнер_ИБ.drawio.png]
 [Task3/С4_контейнер_АБС.drawio.png]
+[Component](https://github.com/roman-timo/architecture-sprint-3/blob/sprint_3/C4/SH_Component.puml)
 
 
 
